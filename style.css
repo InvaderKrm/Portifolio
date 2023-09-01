@@ -1,0 +1,8 @@
+ul {
+    display: flex;
+    flex-direction: row;
+    gap: 14%;
+    list-style: none;
+    padding-left: 84%;
+    margin-top: 1%;
+}
