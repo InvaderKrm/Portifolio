@@ -1,3 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header {
+    height: 5%;
+    margin-bottom: -1.25%;
+    background-color: black;
+}
+main {
+    width: 100%;
+}
+aside {
+    width: 25%;
+    height: 4000%;
+    float: left;
+}
+article {
+    width: 75%;
+    float: left;
+}
+section {
+    width: 25%;
+    height: 350px;
+    float: left;
+    background-color: rgb(52, 52, 52);
+    margin: 1%;
+}
+section img {
+    width: 100%;
+    margin-bottom: 25%;
+}
+footer {
+    height: 5%;
+}
 ul {
     display: flex;
     flex-direction: row;
@@ -5,14 +40,6 @@ ul {
     list-style: none;
     padding-left: 84%;
     margin-top: 1%;
-}
-#perfil {
-    width: 500%;
-    float: left;
-}
-#cards {
-    width: 100%;
-    float: left;
 }
 #pfp {
     border-radius: 100%;
