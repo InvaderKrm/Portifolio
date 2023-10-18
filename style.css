@@ -26,6 +26,7 @@ section {
     background-color: rgb(52, 52, 52);
     margin: 1%;
     border-radius: 3%;
+    box-shadow: 1px 1px 7px 1px #0000004a;
 }
 section img {
     width: 80%;
@@ -37,7 +38,7 @@ section img {
     width: 80%;
     height: 200px;
     object-fit: cover;
-    border: 5px solid black;
+    box-shadow: 1px 1px 7px 1px #0000004a;
 }
 footer {
     height: 5%;
